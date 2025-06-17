@@ -1,2 +1,2 @@
-console.log("V5.0.0");
+console.log("V6.0.0");
 console.log("Index");
